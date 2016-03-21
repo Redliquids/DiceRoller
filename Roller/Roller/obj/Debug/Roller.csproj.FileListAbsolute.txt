@@ -1,0 +1,6 @@
+c:\tfs\C Sharp\Roller\Roller\bin\Debug\Roller.exe.config
+c:\tfs\C Sharp\Roller\Roller\bin\Debug\Roller.exe
+c:\tfs\C Sharp\Roller\Roller\bin\Debug\Roller.pdb
+c:\tfs\C Sharp\Roller\Roller\obj\Debug\Roller.csprojResolveAssemblyReference.cache
+c:\tfs\C Sharp\Roller\Roller\obj\Debug\Roller.exe
+c:\tfs\C Sharp\Roller\Roller\obj\Debug\Roller.pdb
